@@ -1,2 +1,2 @@
 # projeto_curso_visualg
-Projeto criado para escrever portugol na ferramento Visialg
+Projeto criado para escrever portugol na ferramento Visialog
